@@ -1,2 +1,2 @@
 # Python3-Initial-Practise.-
-This is a file where I write some codes which I practise and save my codes which I practise in codecademy. 
+#I am Bidhant Gurung from Nepal. I write code here to save the codes which I write in my online courses. 
